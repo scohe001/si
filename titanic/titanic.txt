@@ -1,4 +1,4 @@
-,Name,PClass,Age,Sex,Survived,SexCode
+,LastName,FirstName,PClass,Age,Sex,Survived,SexCode
 1,Allen,MissElisabethWalton,1st,29,female,1,1
 2,Allison,MissHelenLoraine,1st,2,female,0,1
 3,Allison,MrHudsonJoshuaCreighton,1st,30,male,0,0
