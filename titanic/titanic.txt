@@ -6,7 +6,7 @@
 5,Allison,MasterHudsonTrevor,1st,0.92,male,1,0
 6,Anderson,MrHarry,1st,47,male,1,0
 7,Andrews,MissKorneliaTheodosia,1st,63,female,1,1
-8,Andrews,MrThomas,jr,1st,39,male,0,0
+8,Andrews,MrThomas,1st,39,male,0,0
 9,Appleton,MrsEdwardDale(CharlotteLamson),1st,58,female,1,1
 10,Artagaveytia,MrRamon,1st,71,male,0,0
 11,Astor,ColonelJohnJacob,1st,47,male,0,0
@@ -67,7 +67,7 @@
 66,Clifford,MrGeorgeQuincy,1st,NA,male,0,0
 67,Colley,MrEdwardPomeroy,1st,NA,male,0,0
 68,Compton,MrsAlexanderTaylor(MaryElizaIngersoll),1st,64,female,1,1
-69,Compton,MrAlexanderTaylor,Jr,1st,37,male,0,0
+69,Compton,MrAlexanderTaylor,1st,37,male,0,0
 70,Compton,MissSaraRebecca,1st,39,female,1,1
 71,Cornell,MrsRobertClifford(MalvinaHelenLamson),1st,55,female,1,1
 72,Crafton,MrJohnBertram,1st,NA,male,0,0
@@ -204,7 +204,7 @@
 203,Penasco,MrsVictordeSatode(JosefadeSoto),1st,17,female,1,1
 204,Peuchen,MajorArthurGodfrey,1st,52,male,1,0
 205,Porter,MrWalterChamberlain,1st,46,male,0,0
-206,Potter,MrsThomas,Jr(LilyAlexeniaWilson),1st,56,female,1,1
+206,Potter,MrsThomas,1st,56,female,1,1
 207,Reuchlin,JonkheerJohnGeorge,1st,NA,male,0,0
 208,Rheims,MrGeorgeLucien,1st,NA,male,1,0
 209,Robert,MrsEdwardScott(ElisabethWaltonMcMillan),1st,43,female,1,1
@@ -262,10 +262,10 @@
 261,Taylor,MrsElmerZebley(JulietCumminsWright),1st,NA,female,1,1
 262,Thayer,MrJohnBorland,1st,49,male,0,0
 263,Thayer,MrsJohnBorland(MarianLongstrethMorris),1st,39,female,1,1
-264,Thayer,MrJohnBorland,jr,1st,17,male,1,0
+264,Thayer,MrJohnBorland,1st,17,male,1,0
 265,Thorne,MrGeorge(aliasof:MrGeorgeRosenshine),1st,46,male,0,0
 266,Thorne,MrsGertrudeMaybelle,1st,NA,female,1,1
-267,Tucker,MrGilbertMilligan,jr,1st,31,male,1,0
+267,Tucker,MrGilbertMilligan,1st,31,male,1,0
 268,Uruchurtu,MrManuelE,1st,NA,male,0,0
 269,VanDerhoef,MrWyckoff,1st,61,male,0,0
 270,Walker,MrWilliamAnderson,1st,47,male,0,0
@@ -403,7 +403,7 @@
 402,Enander,MrIngvar,2nd,21,male,0,0
 403,Fahlstrom,MrArneJonas,2nd,19,male,0,0
 404,Faunthorpe,MrHarry,2nd,NA,male,0,0
-405,Faunthorpe,MrsLizzie(seeWilkinson,E),2nd,NA,female,1,1
+405,Faunthorpe,MrsLizzie,2nd,NA,female,1,1
 406,Fillbrook,MrCharles,2nd,NA,male,0,0
 407,Fox,MrStanleyH,2nd,38,male,0,0
 408,Frost,MrAnthony(Archie)W,2nd,NA,male,0,0
@@ -449,13 +449,12 @@
 448,Hodges,MrHenryPrice,2nd,52,male,0,0
 449,Hold,MrStephen,2nd,42,male,0,0
 450,Hold,MrsStephen(AnnieMargaret),2nd,36,female,1,1
-451,Hood,MrAmbrose,Jr,2nd,21,male,0,0
+451,Hood,MrAmbrose,2nd,21,male,0,0
 452,Hosono,MrMasafumi,2nd,41,male,1,0
 453,Howard,MrBenjamin,2nd,NA,male,0,0
 454,Howard,MrsBenjamin(EllenTruelove),2nd,NA,female,0,1
 455,Hunt,MrGeorgeHenry,2nd,33,male,0,0
 456,Ilett,MissBertha,2nd,17,female,1,1
-457,JacobsohnMrSamuel,*,NA,male,0,0
 458,Jacobsohn,MrsSidneySamuel(AmyFrancesChristy),2nd,NA,female,1,1
 459,Jarvis,MrJohnDenzil,2nd,NA,male,0,0
 460,Jefferys,MrClifford,2nd,NA,male,0,0
@@ -1194,7 +1193,6 @@
 1193,Sawyer,MrFrederick,3rd,NA,male,0,0
 1194,Scanlan,MrJames,3rd,NA,male,0,0
 1195,Sdycoff,MrTodor,3rd,NA,male,0,0
-1196,SemanMasterBetros,3rd,NA,male,0,0
 1197,Serota,MrMaurice,3rd,NA,male,0,0
 1198,Shaughnesay,MrPatrick,3rd,NA,male,0,0
 1199,Shedid(Sitik),MrDaher(Docart),3rd,NA,male,0,0
@@ -1236,7 +1234,7 @@
 1235,Strom,MissTelma(Selma)Matilda,3rd,NA,female,0,1
 1236,Sunderland,MrVictorFrancis,3rd,NA,male,1,0
 1237,Sundman,MrJohanJulian,3rd,NA,male,0,0
-1238,Sutehall,MrHenry,Jr,3rd,NA,male,0,0
+1238,Sutehall,MrHenry,3rd,NA,male,0,0
 1239,Svensson,MrJohan,3rd,NA,male,0,0
 1240,Svensson,MrJohanCervin,3rd,NA,male,1,0
 1241,Svensson,MrOlof,3rd,NA,male,0,0
@@ -1246,7 +1244,7 @@
 1245,Thomas,MrsAlexander,3rd,NA,female,1,1
 1246,Thomas,MasterAssadAlexander,3rd,NA,male,0,0
 1247,Thomas,MrCharles,3rd,NA,male,0,0
-1248,Thomas,MrJohn,Jr,3rd,NA,male,0,0
+1248,Thomas,MrJohn,3rd,NA,male,0,0
 1249,Thomas,MrJohn(?1st/2ndclass),3rd,NA,male,0,0
 1250,Thomson,MrAlexander,3rd,NA,male,0,0
 1251,Thorneycroft,MrPercival,3rd,NA,male,0,0
